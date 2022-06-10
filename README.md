@@ -1,3 +1,3 @@
 # GitOps
 
-GitOps/DevSecOps/GitSecOps
+# GitOps/DevSecOps/GitSecOps
